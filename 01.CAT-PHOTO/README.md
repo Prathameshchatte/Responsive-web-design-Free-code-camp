@@ -1,0 +1,1 @@
+This is a simple page created using only html elements.

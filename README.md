@@ -8,7 +8,7 @@ This repository contains my projects and exercises for the Responsive Web Design
    - [Link to Project](https://prathameshchatte.github.io/Responsive-web-design-Free-code-camp/P01.SURVEY_FORM/index.html)
 
 2. **Tribute Page**: A tribute page dedicated to a person or topic of my choice.
-   - [Link to Project](#)
+   - [Link to Project](https://prathameshchatte.github.io/Responsive-web-design-Free-code-camp/P02.TRIBUTE_PAGE/index.html)
 
 3. **Product Landing Page**: A landing page for a product or service.
    - [Link to Project](#)
